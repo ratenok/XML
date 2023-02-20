@@ -1,1 +1,14 @@
-
+<bug_report>
+ <id>1</id>
+ <summary>The Menu word in the [Burger menu] is not translated into Czech</summary>
+ <priority>Low</priority>
+ <severity>Minor</severity>
+ <environment>MacOs Ventura 13.2 Safari 16.3</environment>
+<steps>Steps:</steps>
+<step>1. Navigate to *****.com</step>
+<step>2. Click button [Language]</step>
+<step>3. Select Czech language</step>
+<actual_result>The word Menu is not translated to Czech language</actual_result>
+<expected_result>The word Menu is translated to Czech language</expected_result>
+<attachment>link</attachment>
+</bug_report>
